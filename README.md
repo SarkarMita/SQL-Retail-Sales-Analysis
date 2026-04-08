@@ -342,7 +342,7 @@ GROUP BY shift;
 
 | File | Description |
 |---|---|
-| [📄 SQL_Project1_Retail-sales.sql](SQL_Project1_Retail-sales.sql) | Complete SQL script with all queries |
+| [📄 SQL_Project1_Retail-sales.sql](https://github.com/SarkarMita/SQL-Retail-Sales-Analysis/blob/main/SQL%20Project1%20Retail-sales.sql) | Complete SQL script with all queries |
 | [📊 SQL_Retail_Sales_Analysis.csv](https://github.com/SarkarMita/SQL-Retail-Sales-Analysis/blob/main/SQL%20-%20Retail%20Sales%20Analysis_utf%20.csv) | Raw dataset used for analysis |
 
 ---
